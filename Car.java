@@ -1,4 +1,4 @@
- aa package gdpu.javaweb.pojo;
+ 我· aa package gdpu.javaweb.pojo;
 
 import static javax.persistence.GenerationType.IDENTITY;
 
